@@ -6,4 +6,4 @@
 ### navigation
   - [navigation官网](https://reactnavigation.org/docs/en/getting-started.html)  
   - [总结(脑图)](http://naotu.baidu.com/file/bad872442e2181f01c477c6c86654038)  
-  - [总结(word)]()
+  - [总结(word)](https://github.com/cozyhana/mobile/blob/master/rn-navigation.md)
